@@ -1,4 +1,4 @@
-#Green Tech: An Innovative Farming Project
+<h1>Green Tech: An Innovative Farming Project</h1>
 
 Introduction
 "Green Tech: An Innovative Farming Project" is a cutting-edge platform designed to revolutionize agriculture by integrating Artificial Intelligence (AI), Machine Learning (ML), and Internet of Things (IoT) technologies. This project aims to provide farmers with real-time insights into soil conditions, crop health, and weather patterns, enhancing climate resilience and optimizing resource use.
